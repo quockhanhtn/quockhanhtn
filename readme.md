@@ -18,14 +18,21 @@
 
 
 
-## &#x1f4c8; My GitHub stats
+## &#x1f4c8; My GitHub statistics
+<!--
+https://github.com/anuraghazra/github-readme-stats#github-extra-pins
 
 <a href="https://github.com/quockhanhtn/quockhanhtn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quockhanhtn&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quockhanhtn&layout=compact&title_color=eb1f6a&icon_color=e28905&text_color=f1f1eb&bg_color=272822"/>
+ </a>
+ -->
 
 <a href="https://github.com/quockhanhtn/quockhanhtn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="quockhanhtn's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quockhanhtn&layout=compact"/>
+ </a>
+
+<a href="https://github.com/quockhanhtn/quockhanhtn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&hide=prs&show_icons=true" />
 </a>
 
 
