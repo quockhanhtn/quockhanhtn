@@ -16,7 +16,7 @@ I like having dinner with my family and hanging out with my friend. I also like 
 - Website: [quockhanh.dev][0.4]
 - &#x1F4E7; [quockhanhdev@gmail.com][0.5]
 
-## &#x1F31F;Highlight project
+## &#x1F31F; Highlight project
 - [LIBRARY MANAGER version 1.0][1.1]
   - WPF Application
   - Demo https://youtu.be/i-c7GIz139Q
