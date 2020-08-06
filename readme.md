@@ -1,5 +1,4 @@
-# Hello! I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam 🇻🇳🇻🇳🇻🇳
-![Vietnam wide flag](https://github.com/quockhanhtn/quockhanhtn/blob/master/img/vietnam-wide-flag.png)
+# Hello! I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam :vietnam:
 
 ## 🔴 About me
 
