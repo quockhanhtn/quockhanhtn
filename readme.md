@@ -1,20 +1,22 @@
 # Hello! I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam 🇻🇳🇻🇳🇻🇳
 ![Vietnam wide flag](https://github.com/quockhanhtn/quockhanhtn/blob/master/img/vietnam-wide-flag.png)
 
-## :about: About me
+## 🔴 About me
+
 I am twenty years old. I was born and raised in Tay Ninh province. I'm a sophomore student at at HCMC University of Technology and Education. My major is Information Technology.
 
 I like having dinner with my family and hanging out with my friend. I also like traveling very much. I want to improve my English and my programming skills. I hope to be a full stack developer.
 
-Connect with Me on Social Social networking !
-Thank you for your reading !
+
 
 ## 📬 Get in touch
 - Facebook: [Quốc Khánh](http://facebook.com/profile.php?id=100004367534716)
 - LinkedIn: [Khanh Lam](https://www.linkedin.com/in/lamquockhanh)
 - Youtube: [Quốc Khánh](https://www.youtube.com/channel/UCmhjCVQCe69Z68Fc6zsifAQ)
 - Website: [quockhanh.dev](https://quockhanh.dev)
-:email: [quockhanhdev@gmail.com](mailto:quockhanhdev@gmail.com)
+- :email: [quockhanhdev@gmail.com](mailto:quockhanhdev@gmail.com)
+
+
 
 ## &#x1f4c8; My GitHub stats
 
@@ -23,7 +25,7 @@ Thank you for your reading !
 </a>
 
 <a href="https://github.com/quockhanhtn/quockhanhtn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="quockhanhtn's GitHub Stats" />
 </a>
 
 [1]: https://quockhanhtn.me/?utm_source=github.com&utm_medium=gh-profile-quockhanhtn&utm_campaign=quockhanhtn
