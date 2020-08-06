@@ -32,7 +32,7 @@ https://github.com/anuraghazra/github-readme-stats#github-extra-pins
  </a>
 
 <a href="https://github.com/quockhanhtn/quockhanhtn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&hide=prs&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true" />
 </a>
 
 
