@@ -1,4 +1,5 @@
-# Hello &#x1F590; I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="https://github.com/quockhanhtn/quockhanhtn/blob/master/img/vietnam_flag.png" alt="Vietnam_flag" style="float: left;" width="auto" height="auto" />
+# Hello &#x1F590; I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam ![Vietnam flag][0]
+
 
 ## &#x1F935; About me
 
