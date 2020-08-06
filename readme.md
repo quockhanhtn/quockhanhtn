@@ -18,7 +18,7 @@
 
 
 
-## &#x1f4c8; My GitHub statistics
+## &#x1f4c8; My GitHub stats
 <!--
 https://github.com/anuraghazra/github-readme-stats#github-extra-pins
 
@@ -32,7 +32,8 @@ https://github.com/anuraghazra/github-readme-stats#github-extra-pins
  </a>
 
 <a href="https://github.com/quockhanhtn/quockhanhtn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true" />
+  <!--Options: &hide=stars,commits,prs,issues,contribs-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true&hide=prs" />
 </a>
 
 
