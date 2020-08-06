@@ -3,9 +3,9 @@
 
 ## &#x1F935; About me
 
-I am twenty years old. I was born and raised in Tay Ninh province. I'm a sophomore student at at HCMC University of Technology and Education. My major is Information Technology.
+> I am twenty years old. I was born and raised in Tay Ninh province. I'm a sophomore student at at HCMC University of Technology and Education. My major is Information Technology.
 
-I like having dinner with my family and hanging out with my friend. I also like traveling very much. I want to improve my English and my programming skills. I hope to be a full stack developer.
+>I like having dinner with my family and hanging out with my friend. I also like traveling very much. I want to improve my English and my programming skills. I hope to be a full stack developer.
 
 
 
