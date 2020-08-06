@@ -1,5 +1,5 @@
 # Hello! I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam 🇻🇳🇻🇳🇻🇳
-![Vietnam wide flag](./img/vietnam-wide-flag.png)
+![Vietnam wide flag](https://github.com/quockhanhtn/quockhanhtn/blob/master/img/vietnam-wide-flag.png)
 
 ## :about: About me
 I am twenty years old. I was born and raised in Tay Ninh province. I'm a sophomore student at at HCMC University of Technology and Education. My major is Information Technology.
