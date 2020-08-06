@@ -10,13 +10,22 @@ I like having dinner with my family and hanging out with my friend. I also like 
 
 
 ## 📬 Get in touch
-- Facebook: [Quốc Khánh][1]
-- LinkedIn: [Khanh Lam][2]
-- Youtube: [Quốc Khánh][3]
-- Website: [quockhanh.dev][4]
-- &#x1F4E7; [quockhanhdev@gmail.com][5]
+- Facebook: [Quốc Khánh][0.1]
+- LinkedIn: [Khanh Lam][0.2]
+- Youtube: [Quốc Khánh][0.3]
+- Website: [quockhanh.dev][0.4]
+- &#x1F4E7; [quockhanhdev@gmail.com][0.5]
 
-
+## &#x1F31F;Highlight project
+- [LIBRARY MANAGER version 1.0][1.1]
+  - WPF Application
+  - Demo https://youtu.be/i-c7GIz139Q
+- [KDRAWING (Simple Paint)][1.2]
+  - Winform Application
+  - Demo https://youtu.be/6vpmf8skbA8
+- [LIBRARY MANAGER version 2.0][1.3]
+  - WPF Application
+  - Demo https://youtu.be/7ptR2GLeKI0
 
 ## &#x1f4c8; My GitHub stats
 
@@ -29,8 +38,14 @@ I like having dinner with my family and hanging out with my friend. I also like 
 </a>
 
 [0]: https://github.com/quockhanhtn/quockhanhtn/blob/master/img/vietnam_flag.png
-[1]: http://facebook.com/profile.php?id=100004367534716
-[2]: https://www.linkedin.com/in/lamquockhanh
-[3]: https://www.youtube.com/channel/UCmhjCVQCe69Z68Fc6zsifAQ
-[4]: https://quockhanh.dev
-[5]: mailto:quockhanhdev@gmail.com
+[0.1]: http://facebook.com/profile.php?id=100004367534716
+[0.2]: https://www.linkedin.com/in/lamquockhanh
+[0.3]: https://www.youtube.com/channel/UCmhjCVQCe69Z68Fc6zsifAQ
+[0.4]: https://quockhanh.dev
+[0.5]: mailto:quockhanhdev@gmail.com
+
+
+[1.1]: https://github.com/quockhanhtn/LibraryManager
+[1.2]: https://github.com/quockhanhtn/KDrawing
+[1.3]: https://github.com/quockhanhtn/LibraryManagerDatabaseVersion
+
