@@ -1,5 +1,4 @@
-# &#x270C; Hello &#x1F590; 
-# I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam :vietnam:
+# Hello &#x1F590; I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam ![Vietnam flag][0]
 
 ## &#x1F935; About me
 
@@ -28,6 +27,7 @@ I like having dinner with my family and hanging out with my friend. I also like 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="quockhanhtn's GitHub Stats" />
 </a>
 
+[0]: https://github.com/quockhanhtn/quockhanhtn/blob/master/img/vietnam_flag.png
 [1]: http://facebook.com/profile.php?id=100004367534716
 [2]: https://www.linkedin.com/in/lamquockhanh
 [3]: https://www.youtube.com/channel/UCmhjCVQCe69Z68Fc6zsifAQ
