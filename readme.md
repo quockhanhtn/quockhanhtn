@@ -1,4 +1,4 @@
-## &#x270C; Hello &#x1F590; 
+# &#x270C; Hello &#x1F590; 
 # I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam :vietnam:
 
 ## &#x1F935; About me
