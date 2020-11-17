@@ -1,5 +1,15 @@
 # Hello &#x1F590; I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam ![Vietnam flag][0]
 
+[![Profile View Badge](https://komarev.com/ghpvc/?username=quockhanhtn)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/quockhanhtn)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/quockhanhtn)](https://badges.pufler.dev)
+
+<br>
+
+[![Commits Badge](https://badges.pufler.dev/commits/all/quockhanhtn)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/quockhanhtn)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/quockhanhtn)](https://badges.pufler.dev)
+
 
 ## 😄 About me
 
