@@ -1,4 +1,4 @@
-# Hello &#x1F590; I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam ![Vietnam flag][0]
+# Hello <img src="https://github.com/quockhanhtn/quockhanhtn/blob/master/imgages/hi.gif" width="30"> I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="[viet_nam_flag]" width="30">
 
 [![Profile View Badge](https://komarev.com/ghpvc/?username=quockhanhtn)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/quockhanhtn)](https://badges.pufler.dev)
@@ -43,6 +43,7 @@ https://github.com/anuraghazra/github-readme-stats#github-extra-pins
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true&hide=prs" />
 </a>
 
+[viet_nam_flag]: https://github.com/quockhanhtn/quockhanhtn/blob/master/vietnam_flag.gif
 
 
 [0]: https://github.com/quockhanhtn/quockhanhtn/blob/master/img/vietnam_flag.png
