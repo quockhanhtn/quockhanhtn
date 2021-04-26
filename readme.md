@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/hi.min.gif"> I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/vietnam_flag_.min.gif"> </h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/hi.gif" width="30"> I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/vietnam_flag_.gif" width="30"> </h1>
 
 <p align="center">
   <a href="#" alt="Profile views">
@@ -33,11 +33,12 @@
 <br/><br/>
 
 ## 👨🏻‍💻 About me, I am ...
-- 🎓    a bachelor student at [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/) , majoring in  in Information Technology with specialization in **Software Technology**
-- 🔭    currently learning Android programing and more ...
-- 💼    a part-time .NET developer at [iDentalSoft](https://www.identalsoft.com/)
-- 🤔    exploring new technologies and developing software solutions and quick hacks.
-- 🌱    enthusiast in **Creative Front-End Design**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎓    a bachelor student at [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/) , majoring in  in Information Technology with specialization in **Software Technology**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;🔭    currently learning Android programing and more ...
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    a part-time .NET developer at [iDentalSoft](https://www.identalsoft.com/)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    exploring new technologies and developing software solutions and quick hacks.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    enthusiast in **Creative Front-End Design**
 
 
 
@@ -81,9 +82,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25" /></a>
 </p>
 
+
+
 <br/><br/>
 
-## Thanks for visiting my profile <3
+##  :hearts: Thanks for visiting my profile!
 
 
 
@@ -92,8 +95,3 @@
 [href_youtube]: https://www.youtube.com/channel/UCmhjCVQCe69Z68Fc6zsifAQ
 [href_web]: https://quockhanh.dev
 [href_email]: mailto:quockhanhdev@gmail.com
-
-
-[1.1]: https://github.com/quockhanhtn/LibraryManager
-[1.2]: https://github.com/quockhanhtn/KDrawing
-[1.3]: https://github.com/quockhanhtn/LibraryManagerDatabaseVersion
