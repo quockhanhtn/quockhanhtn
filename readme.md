@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/hi.gif" width="30"> I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/vietnam_flag_.gif" width="30"> </h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/hi.min.gif"> I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/vietnam_flag_.min.gif"> </h1>
 
 <p align="center">
   <a href="#" alt="Profile views">
@@ -21,38 +21,37 @@
 
 
 
-
+<!-- 
 ## 😄 About me
 
 > I am twenty years old. I was born and raised in Tay Ninh province. I'm a sophomore student at at HCMC University of Technology and Education. My major is Information Technology.
 
 >I like having dinner with my family and hanging out with my friend. I also like traveling very much. I want to improve my English and my programming skills. I hope to be a full stack developer.
 
->More info about me at [quockhanh.dev][0.4]
+>More info about me at [quockhanh.dev][0.4] -->
 
-<!--
-## 👨🏻‍💻 About me
+<br/><br/>
 
-- I'm a bachelor student at [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/) , majoring in  in Information Technology with specialization in **Software Technology**
-- 
-- 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+## 👨🏻‍💻 About me, I am ...
+- 🎓    a bachelor student at [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/) , majoring in  in Information Technology with specialization in **Software Technology**
+- 🔭    currently learning Android programing and more ...
+- 💼    a part-time .NET developer at [iDentalSoft](https://www.identalsoft.com/)
+- 🤔    exploring new technologies and developing software solutions and quick hacks.
+- 🌱    enthusiast in **Creative Front-End Design**
 
-<h3>🛠 Tech stack</h3>
 
-- 💻 &nbsp; 
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
--->
+<br/><br/>
+
+## 🛠 Tech stack
+
+- 💻    C# | Java | Python
+- 🌐    HTML | CSS | JavaScript | Bootstrap 
+- 🛢    MySQL | SQL Server | MongoDb
+- 🔧    Visual Studio 2019 | Visual Studio Code | IntelliJ IDEA | Android Studio | Git | TortoiseSVN
+- 🖥    Adobe Photoshop | Adobe Illustrator
+
+
 
 <br/><br/>
 
