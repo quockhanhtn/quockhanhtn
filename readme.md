@@ -26,8 +26,7 @@
 ## 👨🏻‍💻 About me, I am ...
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎓    a bachelor student at [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/) , majoring in  in Information Technology with specialization in **Software Technology**
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;🔭    currently learning Android programing and more ...
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    a part-time .NET developer at [iDentalSoft](https://www.identalsoft.com/)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼    a .NET developer at [iDentalSoft](https://www.identalsoft.com/)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🤔    exploring new technologies and developing software solutions and quick hacks.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;🌱    enthusiast in **Creative Front-End Design**
 
