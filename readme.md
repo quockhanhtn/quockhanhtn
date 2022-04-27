@@ -3,8 +3,8 @@
 <p align="center">
   <a href="#" alt="GenZ | 2000">
     <img src="https://img.shields.io/badge/genZ-2000-5c2d91?style=flat" /></a>
-  <a href="#" alt="Profile views">
-    <img src="https://komarev.com/ghpvc/?username=quockhanhtn&style=flat&color=ff69b4" /></a>
+<!--  <a href="#" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=quockhanhtn&style=flat&color=ff69b4" /></a> -->
   <a href="#" alt="Years">
     <img src="https://badges.pufler.dev/years/quockhanhtn?style=flat&color=blue" /></a>
   <a href="#" alt="Repos">
