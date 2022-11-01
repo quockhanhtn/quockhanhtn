@@ -1,27 +1,6 @@
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/hi.gif" width="30"> I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/vietnam_flag_.gif" width="30"> </h1>
 
-<p align="center">
-  <a href="#" alt="GenZ | 2000">
-    <img src="https://img.shields.io/badge/genZ-2000-5c2d91?style=flat" /></a>
-<!--  <a href="#" alt="Profile views">
-    <img src="https://komarev.com/ghpvc/?username=quockhanhtn&style=flat&color=ff69b4" /></a> -->
-  <a href="#" alt="Years">
-    <img src="https://badges.pufler.dev/years/quockhanhtn?style=flat&color=blue" /></a>
-  <a href="#" alt="Repos">
-    <img src="https://badges.pufler.dev/repos/quockhanhtn?style=flat&color=red" /></a>
-  <a href="#" alt="All commits">
-    <img src="https://badges.pufler.dev/commits/all/quockhanhtn?style=flat&color=brightgreen" /></a>
-  <!--<a href="#" alt="Commits this year">
-    <img src="https://badges.pufler.dev/commits/yearly/quockhanhtn?style=flat&color=brightgreen" /></a>
-  <a href="#" alt="Commits this month">
-    <img src="https://badges.pufler.dev/commits/monthly/quockhanhtn?style=flat&color=brightgreen" /></a>
-  <a href="https://www.youtube.com/channel/UCmhjCVQCe69Z68Fc6zsifAQ" alt="Youtube chanel views">
-    <img src="https://img.shields.io/youtube/channel/views/UCmhjCVQCe69Z68Fc6zsifAQ?label=Youtube&style=social" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=quockhanhtn">
-    <img src="https://img.shields.io/twitter/follow/quockhanhtn?style=social&logo=twitter" alt="follow on Twitter"></a>-->
-</p>
-
-<br/><br/>
+<br/>
 
 ## 👨🏻‍💻 About me, I am ...
 
