@@ -28,14 +28,19 @@
 ## &#x1f4c8; My GitHub stats
 
 <p align="center">
-  <a href="https://github.com/quockhanhtn/quockhanhtn" alt="Top lang stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quockhanhtn&layout=compact"/>
-  </a>
-  <a href="https://github.com/quockhanhtn/quockhanhtn">
-    <!--Options: &hide=stars,commits,prs,issues,contribs-->
-    <img src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true&hide=prs" />
-  </a>
+  <img src="https://github.com/quockhanhtn/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/quockhanhtn/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </p>
+
+<!--
+<a href="https://github.com/quockhanhtn/quockhanhtn" alt="Top lang stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quockhanhtn&layout=compact"/>
+</a>
+<a href="https://github.com/quockhanhtn/quockhanhtn">
+  <img src="https://github-readme-stats.vercel.app/api?username=quockhanhtn&show_icons=true&hide=prs" />
+</a>
+-->
+
 
 
 <br/><br/>
