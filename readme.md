@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/hi.gif" width="30"> I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/vietnam_flag_.gif" width="30"> </h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/quockhanhtn/quockhanhtn/master/images/hi.gif" width="30"> I'm Khanh Lam (Lâm Quốc Khánh) from Vietnam <img src="./images/vietnam_flag_.gif" width="30"> </h1>
 
 <br/>
 
